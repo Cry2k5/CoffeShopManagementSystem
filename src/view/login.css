@@ -1,0 +1,44 @@
+.labellogin{
+	-fx-padding: 5px;
+	-fx-border-color:  #A0522D;
+	-fx-border-width:  0 0 0 5px;
+}
+
+
+
+
+.loginBtn{
+	-fx-background-color: #8B4513;
+	-fx-background-radius: 20 20 20 20;
+	-fx-cursor: hand
+	
+}
+
+.loginBtn:hover{
+	-fx-background-color: #D2B48C;
+	-fx-background-radius: 20 20 20 20;
+	
+}
+
+.textfield{
+	-fx-background-color: transparent;
+	-fx-border-color: #A0522D;
+	-fx-border-width: 0 0 2px 0;
+	
+}
+
+.createbtn{
+	-fx-background-color: transparent;
+	-fx-cursor: hand;
+	-fx-border-color: #fff;
+	-fx-border-width: 1px;
+}
+.createbtn:hover{
+	-fx-background-color: #D2B48C;
+}
+
+.textfieldregister{
+	-fx-background-color: transparent;
+	-fx-border-color: #A0522D;
+	-fx-border-width: 2 2 2 2;
+}
